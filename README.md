@@ -54,7 +54,7 @@ Something like
 
 Connect uC's UART pins to PC
 
-       PC -> uC       
+       PC -> uC  
 
 * Reset the AVR while fullfilling the bootloader start-condition.
 * Start AVRDUDE (to upload the hex file to the uC)  
