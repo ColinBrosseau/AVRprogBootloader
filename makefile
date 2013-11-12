@@ -413,7 +413,7 @@ AVRDUDE_WRITE_FLASH = -U flash:w:$(TARGET).hex
 #AVRDUDE_WRITE_EEPROM = -U eeprom:w:$(TARGET).eep
 
 # ------ADAPT TO YOUR SETTINGS-------
-AVRDUDE_SPEED = 19600
+AVRDUDE_SPEED = 19200
 
 # Uncomment the following if you want avrdude's erase cycle counter.
 # Note that this counter needs to be initialized first using -Yn,
